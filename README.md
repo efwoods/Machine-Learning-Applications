@@ -1,8 +1,14 @@
-# Base-Component
-Base Component
+# Machine-Learning-Applications
+This is a listing of machine learning tutorials, projects, and demos that were used as lessons at Clemson University. 
 
-## Purpose
-Reusable Component
+## Repositories
+- [Discovery](https://github.com/efwoods/Discovery)
+- [Holocaust Veterans](https://github.com/efwoods/Holocaust_Veterans)
+- [Precision Agriculture](https://github.com/efwoods/Watson-Precision-Agriculture)
+- [IBM Watson Assistant](https://github.com/efwoods/assistant-simple)
+- [Car Dashboard](https://github.com/efwoods/car-dashboard)
+- [IBM Watson Visual Recognition](https://github.com/efwoods/Watson-Visual-Recognition)
+
 
 ## Explaination
 [Vue Mastery: BaseCheckbox](https://www.vuemastery.com/courses/vue3-forms/base-checkbox)
